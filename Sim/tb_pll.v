@@ -1,6 +1,6 @@
 `timescale 1ns / 1ps
 
-module tb_pll();
+module tb_pll;
     reg         sys_clk;
     reg         sys_rst_n;
     wire        vga_clk;
